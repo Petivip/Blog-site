@@ -2,100 +2,33 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="85225e22-f8f0-4ab0-b0a6-ec94eed76b0b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.browserslistrc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.travis.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gulpfile.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/css/grayscale.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/css/grayscale.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/img/bg-masthead.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/img/bg-signup.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/img/demo-image-01.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/img/demo-image-02.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/img/ipad.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/img/javalogo.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/img/javapic.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/grayscale.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/grayscale.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/scss/_about.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/scss/_buttons.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/scss/_contact.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/scss/_masthead.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/scss/_mixins.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/scss/_navbar.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/scss/_projects.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/scss/_signup.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/scss/_variables.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/scss/grayscale.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/vendor/bootstrap/css/bootstrap-grid.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/vendor/bootstrap/css/bootstrap-grid.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/vendor/bootstrap/css/bootstrap-grid.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/vendor/bootstrap/css/bootstrap-grid.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/vendor/bootstrap/css/bootstrap-reboot.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/vendor/bootstrap/css/bootstrap-reboot.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/vendor/bootstrap/css/bootstrap-reboot.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/vendor/bootstrap/css/bootstrap-reboot.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/vendor/bootstrap/css/bootstrap.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/vendor/bootstrap/css/bootstrap.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/vendor/bootstrap/css/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/vendor/bootstrap/css/bootstrap.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/vendor/bootstrap/js/bootstrap.bundle.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/vendor/bootstrap/js/bootstrap.bundle.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/vendor/bootstrap/js/bootstrap.bundle.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/vendor/bootstrap/js/bootstrap.bundle.min.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/vendor/bootstrap/js/bootstrap.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/vendor/bootstrap/js/bootstrap.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/vendor/bootstrap/js/bootstrap.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/vendor/bootstrap/js/bootstrap.min.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/vendor/fontawesome-free/css/all.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/vendor/fontawesome-free/css/all.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/vendor/fontawesome-free/css/brands.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/vendor/fontawesome-free/css/brands.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/vendor/fontawesome-free/css/fontawesome.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/vendor/fontawesome-free/css/fontawesome.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/vendor/fontawesome-free/css/regular.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/vendor/fontawesome-free/css/regular.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/vendor/fontawesome-free/css/solid.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/vendor/fontawesome-free/css/solid.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/vendor/fontawesome-free/css/svg-with-js.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/vendor/fontawesome-free/css/svg-with-js.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/vendor/fontawesome-free/css/v4-shims.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/vendor/fontawesome-free/css/v4-shims.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/vendor/fontawesome-free/webfonts/fa-brands-400.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/vendor/fontawesome-free/webfonts/fa-brands-400.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/vendor/fontawesome-free/webfonts/fa-brands-400.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/vendor/fontawesome-free/webfonts/fa-brands-400.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/vendor/fontawesome-free/webfonts/fa-brands-400.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/vendor/fontawesome-free/webfonts/fa-regular-400.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/vendor/fontawesome-free/webfonts/fa-regular-400.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/vendor/fontawesome-free/webfonts/fa-regular-400.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/vendor/fontawesome-free/webfonts/fa-regular-400.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/vendor/fontawesome-free/webfonts/fa-regular-400.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/vendor/fontawesome-free/webfonts/fa-solid-900.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/vendor/fontawesome-free/webfonts/fa-solid-900.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/vendor/fontawesome-free/webfonts/fa-solid-900.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/vendor/fontawesome-free/webfonts/fa-solid-900.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/vendor/fontawesome-free/webfonts/fa-solid-900.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/vendor/jquery-easing/jquery.easing.compatibility.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/vendor/jquery-easing/jquery.easing.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/vendor/jquery-easing/jquery.easing.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/vendor/jquery/jquery.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/vendor/jquery/jquery.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/vendor/jquery/jquery.min.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/vendor/jquery/jquery.slim.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/vendor/jquery/jquery.slim.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/vendor/jquery/jquery.slim.min.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/corejava.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/github.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/htmlCssBootstrap.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/objectOriented.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/pda.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/HomeController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/demo/HomeController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/img/bigjava.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/img/intellij IDEA.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/img/java.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/img/java1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/img/person.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/img/spring.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/img/sssss.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BootStrap.iml" beforeDir="false" afterPath="$PROJECT_DIR$/BootStrap.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/css/grayscale.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/css/grayscale.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/scss/_projects.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/scss/_projects.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/templates/Home.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/Home.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/corejava.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/corejava.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/github.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/github.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/htmlCssBootstrap.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/htmlCssBootstrap.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/objectOriented.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/objectOriented.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/pda.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/pda.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/demo/HomeController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/demo/HomeController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/css/grayscale.css" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/static/css/grayscale.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/scss/_projects.scss" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/static/scss/_projects.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/templates/Home.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/templates/Home.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/templates/corejava.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/templates/corejava.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/templates/github.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/templates/github.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/templates/htmlCssBootstrap.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/templates/htmlCssBootstrap.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/templates/objectOriented.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/templates/objectOriented.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/templates/pda.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/templates/pda.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -127,10 +60,12 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources/static/img" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\PetiVIP\IdeaProjects\Blog-site\src\main\resources\static\img" />
       <recent name="C:\Users\GBTC406006ur\BootStrap\src\main\resources\static\img" />
       <recent name="C:\Users\GBTC406006ur\BootStrap" />
       <recent name="C:\Users\GBTC406006ur\BootStrap\src\main\resources\static" />
@@ -168,6 +103,7 @@
       <option name="presentableId" value="Default" />
       <updated>1573831213046</updated>
       <workItem from="1573831232056" duration="13241000" />
+      <workItem from="1573913165345" duration="9625000" />
     </task>
     <servers />
   </component>
@@ -179,7 +115,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
