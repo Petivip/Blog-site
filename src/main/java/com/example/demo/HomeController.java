@@ -30,5 +30,9 @@ public class HomeController {
     public String pdapage(){
         return "pda";
     }
+    @GetMapping("/test")
+    public String testpage(){
+        return "test";
+    }
 
 }

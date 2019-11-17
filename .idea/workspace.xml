@@ -2,31 +2,34 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="85225e22-f8f0-4ab0-b0a6-ec94eed76b0b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/img/bigjava.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/img/intellij IDEA.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/img/java.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/img/java1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/img/person.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/img/spring.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/img/sssss.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/img/11111.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/img/58480979cef1014c0b5e4901.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/img/conner-ching-RLneuxS1hyA-unsplash.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/img/http___pluspng.com_img-png_bootstrap-logo-vector-png-html5-logo-vector-free-download-200.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/img/tyler-nix-PJNIA_gJVIw-unsplash.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BootStrap.iml" beforeDir="false" afterPath="$PROJECT_DIR$/BootStrap.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/css/grayscale.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/css/grayscale.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/scss/_projects.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/scss/_projects.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/HomeController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/demo/HomeController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/img/java.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/img/java1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/img/javalogo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/img/javapic.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/img/person.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/img/spring.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/img/sssss.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/templates/Home.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/Home.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/templates/corejava.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/corejava.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/templates/github.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/github.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/htmlCssBootstrap.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/htmlCssBootstrap.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/htmlCssBootstrap.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/templates/objectOriented.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/objectOriented.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/templates/pda.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/pda.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/example/demo/HomeController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/demo/HomeController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/static/css/grayscale.css" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/static/css/grayscale.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/static/scss/_projects.scss" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/static/scss/_projects.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/img/javalogo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/img/javapic.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/img/person.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/templates/Home.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/templates/Home.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/templates/corejava.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/templates/corejava.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/templates/github.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/templates/github.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/templates/htmlCssBootstrap.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/templates/htmlCssBootstrap.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/templates/htmlCssBootstrap.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/templates/objectOriented.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/templates/objectOriented.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/templates/pda.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/templates/pda.html" afterDir="false" />
     </list>
@@ -40,9 +43,9 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
-        <option value="HTML File" />
         <option value="Html Template" />
         <option value="Copy temple" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -103,7 +106,9 @@
       <option name="presentableId" value="Default" />
       <updated>1573831213046</updated>
       <workItem from="1573831232056" duration="13241000" />
-      <workItem from="1573913165345" duration="9625000" />
+      <workItem from="1573913165345" duration="10109000" />
+      <workItem from="1573997003536" duration="8760000" />
+      <workItem from="1574006507052" duration="2733000" />
     </task>
     <servers />
   </component>

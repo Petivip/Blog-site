@@ -26,8 +26,9 @@
 
 <div th:replace="home :: navlinks"></div>
 
-<section id="about" class="about-section text-center" style="margin-bottom: -50px">
+<section th:fragment="pd" id="about" class="about-section" style="margin-bottom: -50px">
     <div class="container">
+        <h2 class="pl-5 pb-5 pt-5 text-primary">Program Design & Algorithm Blog</h2>
         <div class="row align-items-center no-gutters mb-4 mb-lg-5">
             <div class="col-xl-4 col-lg-5">
                 <img class="img-fluid mb-3 mb-lg-0" src="img/bg-masthead.jpg" alt="">
